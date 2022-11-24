@@ -1,1 +1,4 @@
-Test
+Exercice 3
+Écrire une fonction imc() qui prend un poids et une taille en cm et retourne l'IMC ( Indice de Masse Corporelle ) selon la formule imc = poids / taille 2 .
+
+Utilisez cette fonction depuis une procédure qui demande et affiche les informations via des boites de dialogues.
